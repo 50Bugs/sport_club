@@ -146,7 +146,7 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="src/pexels-mike-1192043 (1).jpg" class="d-block w-100" alt="...">
+                    <img src="src/pexels-mike-1192043 (1).jpg.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Здоровий спосіб життя</h5>
                         <p>Уникніть захворювань пов'язаних з сидячим способом життя</p>
